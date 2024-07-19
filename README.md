@@ -16,7 +16,7 @@ calls with parameters separated by a comma.
 ## Prerequisites
 
 * Latest Genero version
-* GNU Make
+* GNU Make (When using Linux and not GST)
 
 ## Compilation from command line
 
